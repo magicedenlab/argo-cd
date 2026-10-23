@@ -1,6 +1,6 @@
 module github.com/argoproj/argo-cd/v3
 
-go 1.22.0
+go 1.23
 
 require (
 	code.gitea.io/sdk/gitea v0.19.0
@@ -77,7 +77,7 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.10.0
 	github.com/valyala/fasttemplate v1.2.2
-	github.com/yuin/gopher-lua v1.1.1
+	github.com/yuin/gopher-lua v1.1.2
 	gitlab.com/gitlab-org/api/client-go v0.116.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.56.0
 	go.opentelemetry.io/otel v1.33.0
