@@ -1,6 +1,6 @@
 module github.com/argoproj/argo-cd/v3
 
-go 1.22.0
+go 1.26.0
 
 require (
 	code.gitea.io/sdk/gitea v0.19.0
@@ -86,7 +86,7 @@ require (
 	golang.org/x/crypto v0.31.0
 	golang.org/x/exp v0.0.0-20241108190413-2d47ceb2692f
 	golang.org/x/net v0.33.0
-	golang.org/x/oauth2 v0.25.0
+	golang.org/x/oauth2 v0.37.0
 	golang.org/x/sync v0.10.0
 	golang.org/x/term v0.28.0
 	golang.org/x/time v0.9.0
